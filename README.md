@@ -31,4 +31,4 @@
 
 ### 📊 GitHub stats
 
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanfelipe01&show_icons=true&theme=transparent&hide_border=true)
