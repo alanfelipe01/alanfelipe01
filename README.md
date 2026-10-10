@@ -52,3 +52,11 @@ Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvol
     <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+---
+
+<div align="center">
+
+<img src="moon.svg" alt="Lua minguante em pixel art" width="360" />
+
+</div>
