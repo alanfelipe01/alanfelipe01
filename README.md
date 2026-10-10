@@ -39,8 +39,8 @@ Quando tiver projeto pronto, tire os marcadores de comentário desta seção.
 ## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&theme=nord" alt="GitHub Stats" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=alanfelipe01&type=languages" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&theme=nord&hide_border=true&card_width=495" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&layout=compact&theme=nord&hide_border=true&card_width=495" alt="Top Languages" width="48%" />
 </div>
 
 ---
