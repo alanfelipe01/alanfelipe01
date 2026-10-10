@@ -36,8 +36,8 @@ Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvol
 ## 📊 GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=nord&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=nord" alt="Linguagens mais utilizadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanfelipe01&show_icons=true&theme=nord&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanfelipe01&layout=compact&theme=nord" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
