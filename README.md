@@ -35,9 +35,10 @@ Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvol
 
 ## 📊 GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alanfelipe01&rank_icon=github&custom_title=my%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=alanfelipe01&rank_icon=github&custom_title=my%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=nord)
-
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=alanfelipe01&type=languages)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanfelipe01&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanfelipe01&layout=compact&theme=nord" alt="Linguagens mais utilizadas" />
+</div>
 
 ---
 
