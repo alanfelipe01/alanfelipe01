@@ -36,11 +36,11 @@ Descrição curta do que o projeto faz.
 Quando tiver projeto pronto, tire os marcadores de comentário desta seção.
 -->
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub
 
 <div align="center">
-  <img height="200" src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&hide_border=false&title_color=E4001B&icon_color=E4001B&text_color=FFFFFF&bg_color=151515&border_color=2A2A2A&ring_color=E4001B&custom_title=Estatísticas%20do%20GitHub%20de%20Alan" alt="GitHub Stats" />
-  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&layout=compact&langs_count=4&title_color=E4001B&text_color=FFFFFF&bg_color=151515&border_color=2A2A2A&exclude_repo=litoranea-ambiental" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&theme=nord&hide_border=true&card_width=495&line_height=27" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&layout=normal&theme=nord&hide_border=true&card_width=495&exclude_repo=litoranea-ambiental" alt="Top Languages" width="48%" />
 </div>
 
 ---
