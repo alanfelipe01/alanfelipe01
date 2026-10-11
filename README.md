@@ -1,4 +1,4 @@
-# Olá!, Eu sou Alan Felipe
+# Olá! 👋 Eu sou Alan Felipe
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Back-end em formação**
 
