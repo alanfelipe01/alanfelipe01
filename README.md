@@ -40,7 +40,7 @@ Quando tiver projeto pronto, tire os marcadores de comentário desta seção.
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&theme=nord&hide_border=true&card_width=495&line_height=27" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true&card_width=495&line_height=27" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&layout=normal&theme=nord&hide_border=true&card_width=495&exclude_repo=litoranea-ambiental" alt="Top Languages" width="48%" />
 </div>
 
 ---
