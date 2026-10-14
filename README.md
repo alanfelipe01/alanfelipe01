@@ -12,9 +12,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minh
 
 Tenho noções de desenvolvimento front-end com HTML, CSS e JavaScript, que me ajudam a compreender a construção de aplicações web de forma mais ampla. Atualmente, estou direcionando meus estudos para Python, lógica de programação, bancos de dados e desenvolvimento de APIs.
 
-Também venho aprendendo a utilizar ferramentas como Git e GitHub para versionar meus projetos, organizar meu código e acompanhar minha evolução como desenvolvedor.
-
 Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvolver projetos práticos e evoluir continuamente em programação, banco de dados, APIs e arquitetura de software, buscando oportunidades para crescer profissionalmente na área de tecnologia.
+
 
 <img src="./divider.svg" alt="" width="100%" />
 
@@ -53,15 +52,9 @@ Quando tiver projeto pronto, tire os marcadores de comentário desta seção.
 
 ## <img src="./icon-contact.svg" alt="" height="24" /> Contato
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alan-felipe-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 
-  <a href="mailto:alanfelipe1006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/alan-felipe-dev"><img src="linkedin.svg" alt="LinkedIn"></a>
+<a href="mailto:alanfelipe1006@gmail.com"><img src="gmail.svg" alt="Gmail"></a>
 
 <img src="./divider.svg" alt="" width="100%" />
 
