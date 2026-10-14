@@ -15,6 +15,21 @@ Tenho noções de desenvolvimento front-end com HTML, CSS e JavaScript, que me a
 Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvolver projetos práticos e evoluir continuamente em programação, banco de dados, APIs e arquitetura de software, buscando oportunidades para crescer profissionalmente na área de tecnologia.
 
 
+## <img src="./icon-projects.svg" alt="" height="24" /> Projetos em destaque
+
+### [tech-rent](https://github.com/alanfelipe01/tech-rent)
+Sistema web para gerenciamento de aluguel e controle de equipamentos de Tecnologia da Informação.
+`CSS` `HTML` `JavaScript`
+
+### [sistema-estoque](https://github.com/alanfelipe01/sistema-estoque)
+Descrição curta do que o sistema faz.
+`HTML`
+
+### [Portfolio-Web](https://github.com/alanfelipe01/Portfolio-Web)
+Descrição curta do que o portfólio mostra.
+`JavaScript`
+
+
 <img src="./divider.svg" alt="" width="100%" />
 
 ## <img src="./icon-tech.svg" alt="" height="24" /> Tecnologias e ferramentas
