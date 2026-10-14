@@ -8,13 +8,11 @@
 
 📍 Fortaleza, CE — Brasil
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha jornada na área de desenvolvimento de software, com foco principal em **Back-end com Python**.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento **back-end** utilizando **Python**. Tenho conhecimentos básicos de HTML, CSS e JavaScript, que complementam minha compreensão do desenvolvimento web.
 
-Tenho noções de desenvolvimento front-end com HTML, CSS e JavaScript, que me ajudam a compreender a construção de aplicações web de forma mais ampla. Atualmente, estou direcionando meus estudos para Python, lógica de programação, bancos de dados e desenvolvimento de APIs.
+Atualmente, estou aprofundando meus conhecimentos em Python, lógica de programação, bancos de dados e desenvolvimento de APIs, aplicando o que aprendo em projetos práticos.
 
-Também venho aprendendo a utilizar ferramentas como Git e GitHub para versionar meus projetos, organizar meu código e acompanhar minha evolução como desenvolvedor.
-
-Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvolver projetos práticos e evoluir continuamente em programação, banco de dados, APIs e arquitetura de software, buscando oportunidades para crescer profissionalmente na área de tecnologia.
+Meu objetivo é construir uma base sólida em desenvolvimento de software e evoluir continuamente como desenvolvedor back-end.
 
 <img src="./divider.svg" alt="" width="100%" />
 
