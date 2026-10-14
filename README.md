@@ -60,6 +60,4 @@ Quando tiver projeto pronto, tire os marcadores de comentário desta seção.
 
 <div align="center">
 
-<img src="moon.svg" alt="Lua minguante em pixel art" width="360" />
-
 </div>
