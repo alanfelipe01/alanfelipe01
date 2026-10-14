@@ -14,6 +14,7 @@ Tenho noções de desenvolvimento front-end com HTML, CSS e JavaScript, que me a
 
 Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvolver projetos práticos e evoluir continuamente em programação, banco de dados, APIs e arquitetura de software, buscando oportunidades para crescer profissionalmente na área de tecnologia.
 
+<img src="./divider.svg" alt="" width="100%" />
 
 ## <img src="./icon-projects.svg" alt="" height="24" /> Projetos em destaque
 
@@ -46,15 +47,6 @@ Descrição curta do que o portfólio mostra.
 
 <img src="./divider.svg" alt="" width="100%" />
 
-<!--
-## 🚀 Projetos em destaque
-
-### 📌 Nome do projeto
-Descrição curta do que o projeto faz.
-[Ver projeto](link-do-projeto)
-
-Quando tiver projeto pronto, tire os marcadores de comentário desta seção.
--->
 
 ## <img src="./icon-stats.svg" alt="" height="24" /> GitHub
 
