@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Alan Felipe - Back-end Python - Fortaleza, CE: cena noturna em pixel art" width="100%" />
+  <img src="./banner-elden-ring.svg" alt="Pixel-Art" width="100%" />
 </div>
 
 # Olá! 👋 Eu sou Alan Felipe
