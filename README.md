@@ -53,15 +53,10 @@ Quando tiver projeto pronto, tire os marcadores de comentário desta seção.
 
 ## <img src="./icon-contact.svg" alt="" height="24" /> Contato
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alan-felipe-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+## Contato
 
-  <a href="mailto:alanfelipe1006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/alan-felipe-dev"><img src="assets/linkedin.svg" alt="LinkedIn"></a>
+<a href="mailto:alanfelipe1006@gmail.com"><img src="assets/gmail.svg" alt="Gmail"></a>
 
 <img src="./divider.svg" alt="" width="100%" />
 
