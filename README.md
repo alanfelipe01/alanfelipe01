@@ -14,6 +14,22 @@ Tenho noções de desenvolvimento front-end com HTML, CSS e JavaScript, que me a
 
 Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvolver projetos práticos e evoluir continuamente em programação, banco de dados, APIs e arquitetura de software, buscando oportunidades para crescer profissionalmente na área de tecnologia.
 
+<img src="./divider.svg" alt="" width="100%" />
+
+## <img src="./icon-projects.svg" alt="" height="24" /> Projetos em destaque
+
+### [python-estudos](https://github.com/alanfelipe01/python-estudos)
+Repositório onde registro minhas atividades e a evolução dos meus estudos de Python. Ainda pequeno, mas vai crescer junto com os estudos.
+`Python`
+
+### [Portfolio-Web — Alan.exe](https://github.com/alanfelipe01/Portfolio-Web)
+Meu portfólio pessoal, inspirado na interface do Windows 95 (janelas, ícones e taskbar), feito em HTML, CSS e JavaScript puros. Em evolução: é onde vou reunir meus projetos.
+`HTML` `CSS` `JavaScript`
+
+### [Litoranea Ambiental](https://github.com/alanfelipe01/litoranea-ambiental)
+Landing page feita sob encomenda para uma empresa júnior da UFC, para divulgar os trabalhos ambientais deles. Meu primeiro projeto com cliente real.
+`TypeScript` `React` `Tailwind CSS` `Lovable`
+
 
 <img src="./divider.svg" alt="" width="100%" />
 
@@ -31,15 +47,6 @@ Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvol
 
 <img src="./divider.svg" alt="" width="100%" />
 
-<!--
-## 🚀 Projetos em destaque
-
-### 📌 Nome do projeto
-Descrição curta do que o projeto faz.
-[Ver projeto](link-do-projeto)
-
-Quando tiver projeto pronto, tire os marcadores de comentário desta seção.
--->
 
 ## <img src="./icon-stats.svg" alt="" height="24" /> GitHub
 
