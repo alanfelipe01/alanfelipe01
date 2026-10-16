@@ -51,8 +51,8 @@ Landing page feita sob encomenda para uma empresa júnior da UFC, para divulgar 
 ## <img src="./icon-stats.svg" alt="" height="24" /> GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&bg_color=0a0e24&title_color=f6e7a6&text_color=cdd6f4&icon_color=7aa2f7&card_width=495&line_height=27&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&layout=normal&hide_border=true&border_radius=0&bg_color=0a0e24&title_color=f6e7a6&text_color=cdd6f4&card_width=495&exclude_repo=litoranea-ambiental&v=1" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&bg_color=0a0e24&title_color=f6e7a6&text_color=cdd6f4&icon_color=7aa2f7&card_width=495&line_height=27&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&layout=normal&hide_border=true&border_radius=0&bg_color=0a0e24&title_color=f6e7a6&text_color=cdd6f4&card_width=495&exclude_repo=litoranea-ambiental&v=2" alt="Top Languages" width="48%" />
 </div>
 
 <img src="./divider.svg" alt="" width="100%" />
