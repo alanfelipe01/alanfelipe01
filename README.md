@@ -51,8 +51,8 @@ Landing page criada sob encomenda para uma empresa júnior da UFC, com foco na a
 ## <img src="./assets/icons/icon-stats.svg" alt="" height="24" /> Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&bg_color=0a0e24&title_color=f6e7a6&text_color=cdd6f4&icon_color=7aa2f7&card_width=495&line_height=27&v=2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&layout=normal&hide_border=true&border_radius=0&bg_color=0a0e24&title_color=f6e7a6&text_color=cdd6f4&card_width=495&exclude_repo=litoranea-ambiental&v=2" alt="Top Languages" width="48%" />
+  <img src="./assets/stats/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./assets/stats/top-langs.svg" alt="Top Languages" width="48%" />
 </div>
 
 <img src="./assets/dividers/divider.svg" alt="" width="100%" />
