@@ -36,13 +36,13 @@ Landing page criada sob encomenda para uma empresa júnior da UFC, com foco na a
 ## <img src="./assets/icons/icon-tech.svg" alt="" height="24" /> Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-172333?style=for-the-badge&logo=python&logoColor=E7B769" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-172333?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-172333?style=for-the-badge&logo=html5&logoColor=E79A70" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-172333?style=for-the-badge&logo=css3&logoColor=79B8D4" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-172333?style=for-the-badge&logo=javascript&logoColor=E7C875" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-172333?style=for-the-badge&logo=git&logoColor=E79A70" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-172333?style=for-the-badge&logo=github&logoColor=D7E0EA" alt="GitHub" />
 </div>
 
 <img src="./assets/dividers/divider.svg" alt="" width="100%" />
@@ -60,11 +60,8 @@ Landing page criada sob encomenda para uma empresa júnior da UFC, com foco na a
 ## <img src="./assets/icons/icon-contact.svg" alt="" height="24" /> Contato
 
 
-<a href="https://www.linkedin.com/in/alan-felipe-dev"><img src="./assets/icons/linkedin.svg" alt="LinkedIn"></a>
-<a href="mailto:alanfelipe1006@gmail.com"><img src="./assets/icons/gmail.svg" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/alan-felipe-dev"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" height="30"></a>
+<a href="mailto:alanfelipe1006@gmail.com"><img src="./assets/icons/gmail.svg" alt="E-mail" height="30"></a>
 
 <img src="./assets/dividers/divider.svg" alt="" width="100%" />
 
-<div align="center">
-
-</div>
