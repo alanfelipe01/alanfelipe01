@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-elden-ring.svg" alt="Pixel-Art" width="100%" />
+  <img src="escritorioart.png" alt="Escritório em pixel art à noite, com lua minguante" width="100%" />
 </div>
 
 # Olá! 👋 Eu sou Alan Felipe
