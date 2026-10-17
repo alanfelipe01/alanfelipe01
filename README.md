@@ -8,26 +8,24 @@
 
 📍 Fortaleza, CE — Brasil
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha jornada na área de desenvolvimento de software, com foco principal em **Back-end com Python**.
+Estudo **Python e desenvolvimento back-end**, construindo minha base em lógica de programação e bancos de dados por meio de exercícios e projetos práticos.
 
-Tenho noções de desenvolvimento front-end com HTML, CSS e JavaScript, que me ajudam a compreender a construção de aplicações web de forma mais ampla. Atualmente, estou direcionando meus estudos para Python, lógica de programação, bancos de dados e desenvolvimento de APIs.
-
-Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvolver projetos práticos e evoluir continuamente em programação, banco de dados, APIs e arquitetura de software, buscando oportunidades para crescer profissionalmente na área de tecnologia.
+Também tenho experiência com HTML, CSS e JavaScript, aplicada em projetos web. Meu próximo passo é aprofundar os estudos em **APIs e integração com bancos de dados**.
 
 <img src="./divider.svg" alt="" width="100%" />
 
 ## <img src="./icon-projects.svg" alt="" height="24" /> Projetos em destaque
 
 ### [python-estudos](https://github.com/alanfelipe01/python-estudos)
-Repositório onde registro minhas atividades e a evolução dos meus estudos de Python. Ainda pequeno, mas vai crescer junto com os estudos.
+Exercícios e atividades organizados por tema para praticar Python e lógica de programação, com registro da minha evolução nos estudos.
 `Python`
 
 ### [Portfolio-Web — Alan.exe](https://github.com/alanfelipe01/Portfolio-Web)
-Meu portfólio pessoal, inspirado na interface do Windows 95 (janelas, ícones e taskbar), feito em HTML, CSS e JavaScript puros. Em evolução: é onde vou reunir meus projetos.
+Portfólio pessoal inspirado no Windows 95, com janelas, ícones e barra de tarefas. Desenvolvido com HTML, CSS e JavaScript puros para apresentar meus projetos em uma interface retrô.
 `HTML` `CSS` `JavaScript`
 
-### [Litoranea Ambiental](https://github.com/alanfelipe01/litoranea-ambiental)
-Landing page feita sob encomenda para uma empresa júnior da UFC, para divulgar os trabalhos ambientais deles. Meu primeiro projeto com cliente real.
+### [Litorânea Ambiental](https://github.com/alanfelipe01/litoranea-ambiental)
+Landing page criada sob encomenda para uma empresa júnior da UFC, com foco na apresentação de seus serviços ambientais. Meu primeiro projeto para um cliente real.
 `TypeScript` `React` `Tailwind CSS` `Lovable`
 
 
@@ -48,7 +46,7 @@ Landing page feita sob encomenda para uma empresa júnior da UFC, para divulgar 
 <img src="./divider.svg" alt="" width="100%" />
 
 
-## <img src="./icon-stats.svg" alt="" height="24" /> GitHub
+## <img src="./icon-stats.svg" alt="" height="24" /> Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&bg_color=0a0e24&title_color=f6e7a6&text_color=cdd6f4&icon_color=7aa2f7&card_width=495&line_height=27&v=2" alt="GitHub Stats" width="48%" />
