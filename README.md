@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="escritorioart.png" alt="Escritório em pixel art à noite, com lua minguante" width="100%" />
+  <img src="./assets/banners/escritorioart.png" alt="Escritório em pixel art à noite, com lua minguante" width="100%" />
 </div>
 
 # Olá! 👋 Eu sou Alan Felipe
@@ -14,9 +14,9 @@ Tenho noções de HTML, CSS e JavaScript, que me ajudam a compreender o desenvol
 
 Busco consolidar esses conhecimentos em projetos práticos e me preparar para oportunidades profissionais na área de tecnologia.
 
-<img src="./divider.svg" alt="" width="100%" />
+<img src="./assets/dividers/divider.svg" alt="" width="100%" />
 
-## <img src="./icon-projects.svg" alt="" height="24" /> Projetos em destaque
+## <img src="./assets/icons/icon-projects.svg" alt="" height="24" /> Projetos em destaque
 
 ### [python-estudos](https://github.com/alanfelipe01/python-estudos)
 Exercícios e atividades organizados por tema para praticar Python e lógica de programação, com registro da minha evolução nos estudos.
@@ -31,9 +31,9 @@ Landing page criada sob encomenda para uma empresa júnior da UFC, com foco na a
 `TypeScript` `React` `Tailwind CSS` `Lovable`
 
 
-<img src="./divider.svg" alt="" width="100%" />
+<img src="./assets/dividers/divider.svg" alt="" width="100%" />
 
-## <img src="./icon-tech.svg" alt="" height="24" /> Tecnologias e ferramentas
+## <img src="./assets/icons/icon-tech.svg" alt="" height="24" /> Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -45,25 +45,25 @@ Landing page criada sob encomenda para uma empresa júnior da UFC, com foco na a
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-<img src="./divider.svg" alt="" width="100%" />
+<img src="./assets/dividers/divider.svg" alt="" width="100%" />
 
 
-## <img src="./icon-stats.svg" alt="" height="24" /> Estatísticas do GitHub
+## <img src="./assets/icons/icon-stats.svg" alt="" height="24" /> Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&bg_color=0a0e24&title_color=f6e7a6&text_color=cdd6f4&icon_color=7aa2f7&card_width=495&line_height=27&v=2" alt="GitHub Stats" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&layout=normal&hide_border=true&border_radius=0&bg_color=0a0e24&title_color=f6e7a6&text_color=cdd6f4&card_width=495&exclude_repo=litoranea-ambiental&v=2" alt="Top Languages" width="48%" />
 </div>
 
-<img src="./divider.svg" alt="" width="100%" />
+<img src="./assets/dividers/divider.svg" alt="" width="100%" />
 
-## <img src="./icon-contact.svg" alt="" height="24" /> Contato
+## <img src="./assets/icons/icon-contact.svg" alt="" height="24" /> Contato
 
 
-<a href="https://www.linkedin.com/in/alan-felipe-dev"><img src="linkedin.svg" alt="LinkedIn"></a>
-<a href="mailto:alanfelipe1006@gmail.com"><img src="gmail.svg" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/alan-felipe-dev"><img src="./assets/icons/linkedin.svg" alt="LinkedIn"></a>
+<a href="mailto:alanfelipe1006@gmail.com"><img src="./assets/icons/gmail.svg" alt="Gmail"></a>
 
-<img src="./divider.svg" alt="" width="100%" />
+<img src="./assets/dividers/divider.svg" alt="" width="100%" />
 
 <div align="center">
 
