@@ -36,13 +36,13 @@ Landing page criada sob encomenda para uma empresa júnior da UFC, com foco na a
 ## <img src="./assets/icons/icon-tech.svg" alt="" height="24" /> Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-172333?style=for-the-badge&logo=python&logoColor=E7B769" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-172333?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-172333?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-172333?style=for-the-badge&logo=html5&logoColor=E79A70" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-172333?style=for-the-badge&logo=css3&logoColor=79B8D4" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-172333?style=for-the-badge&logo=javascript&logoColor=E7C875" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-172333?style=for-the-badge&logo=git&logoColor=E79A70" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-172333?style=for-the-badge&logo=github&logoColor=D7E0EA" alt="GitHub" />
+  <img src="https://img.shields.io/badge/HTML5-172333?style=for-the-badge&logo=html5&logoColor=FF6D3A" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-172333?style=for-the-badge&logo=css3&logoColor=29B6F6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-172333?style=for-the-badge&logo=javascript&logoColor=FFE033" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-172333?style=for-the-badge&logo=git&logoColor=FF633D" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-172333?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </div>
 
 <img src="./assets/dividers/divider.svg" alt="" width="100%" />
