@@ -8,9 +8,11 @@
 
 📍 Fortaleza, CE — Brasil
 
-Estudo **Python e desenvolvimento back-end**, construindo minha base em lógica de programação e bancos de dados por meio de exercícios e projetos práticos.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória em desenvolvimento de software, com foco em **back-end com Python**.
 
-Também tenho experiência com HTML, CSS e JavaScript, aplicada em projetos web. Meu próximo passo é aprofundar os estudos em **APIs e integração com bancos de dados**.
+Tenho noções de HTML, CSS e JavaScript, que me ajudam a compreender o desenvolvimento de aplicações web de forma mais ampla. Atualmente, estou direcionando meus estudos para Python, lógica de programação, bancos de dados e desenvolvimento de APIs.
+
+Busco consolidar esses conhecimentos em projetos práticos e me preparar para oportunidades profissionais na área de tecnologia.
 
 <img src="./divider.svg" alt="" width="100%" />
 
