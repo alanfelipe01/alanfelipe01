@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-elden-ring.svg" alt="Pixel-Art" width="100%" />
+  <img src="./git-terminal-banner.svg" alt="terminal.svg" width="100%" />
 </div>
 
 # Olá! 👋 Eu sou Alan Felipe
