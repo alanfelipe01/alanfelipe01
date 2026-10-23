@@ -10,7 +10,7 @@ Fortaleza, CE — Brasil
 
 [Portfólio](https://alan-felipe-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/alan-felipe-dev) · [E-mail](mailto:alanfelipe1006@gmail.com)
 
----
+<img src="./divider.svg" alt="" width="100%" />
 
 ## `$ whoami`
 
@@ -18,7 +18,9 @@ Sou estudante de ADS e estou construindo minha base em **desenvolvimento back-en
 
 Meus estudos se concentram em **Python, lógica de programação e bancos de dados**, com o objetivo de avançar na construção de APIs. Também tenho noções de HTML, CSS e JavaScript, que aplico em projetos web.
 
-## `$ ls projetos/`
+<img src="./divider.svg" alt="" width="100%" />
+
+## <img src="./icon-projects.svg" alt="" height="24" /> Projetos em destaque
 
 ### [python-estudos](https://github.com/alanfelipe01/python-estudos)
 
@@ -42,46 +44,48 @@ Landing page para a empresa júnior de Ciências Ambientais da UFC, com apresent
 
 [Visitar o site ↗](https://litoranea-ambiental-ufc.vercel.app/)
 
----
+<img src="./divider.svg" alt="" width="100%" />
 
-## `$ cat stack.txt`
+## <img src="./icon-tech.svg" alt="" height="24" /> Tecnologias e ferramentas
 
 **Foco de estudo**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1723?style=for-the-badge&amp;logo=python&amp;logoColor=74E3AE" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-0D1723?style=for-the-badge&amp;labelColor=0D1723&amp;color=142E2B" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
 </p>
 
 **Base em desenvolvimento web**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-0D1723?style=for-the-badge&amp;logo=html5&amp;logoColor=60DFEF" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0D1723?style=for-the-badge&amp;logo=css&amp;logoColor=60DFEF" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1723?style=for-the-badge&amp;logo=javascript&amp;logoColor=60DFEF" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
 </p>
 
 **Versionamento**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-0D1723?style=for-the-badge&amp;logo=git&amp;logoColor=74E3AE" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1723?style=for-the-badge&amp;logo=github&amp;logoColor=74E3AE" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </p>
 
-## `$ git log --stat`
+<img src="./divider.svg" alt="" width="100%" />
+
+## <img src="./icon-stats.svg" alt="" height="24" /> GitHub
 
 <p>
-  <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=false&amp;border_color=253343&amp;border_radius=10&amp;bg_color=0d1723&amp;title_color=60dfef&amp;text_color=d9e5ef&amp;icon_color=74e3ae&amp;card_width=420&amp;line_height=27" alt="Estatísticas de atividade de Alan Felipe no GitHub" width="420" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&amp;layout=normal&amp;hide_border=false&amp;border_color=253343&amp;border_radius=10&amp;bg_color=0d1723&amp;title_color=60dfef&amp;text_color=d9e5ef&amp;card_width=420&amp;exclude_repo=litoranea-ambiental" alt="Linguagens dos repositórios de Alan Felipe, com Litorânea Ambiental excluído desta estatística" width="420" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alanfelipe01&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=false&amp;border_color=253343&amp;border_radius=0&amp;bg_color=0d1723&amp;title_color=f6e7a6&amp;text_color=d9e5ef&amp;icon_color=7aa2f7&amp;card_width=420&amp;line_height=27" alt="Estatísticas de atividade de Alan Felipe no GitHub" width="420" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alanfelipe01&amp;layout=normal&amp;hide_border=false&amp;border_color=253343&amp;border_radius=0&amp;bg_color=0d1723&amp;title_color=f6e7a6&amp;text_color=d9e5ef&amp;card_width=420&amp;exclude_repo=litoranea-ambiental" alt="Linguagens dos repositórios de Alan Felipe, com Litorânea Ambiental excluído desta estatística" width="420" />
 </p>
 
----
+<img src="./divider.svg" alt="" width="100%" />
 
-## `$ cat contato.txt`
+## <img src="./icon-contact.svg" alt="" height="24" /> Contato
 
 Para conversar sobre projetos, aprendizado ou oportunidades na área de desenvolvimento:
 
 <p>
-  <a href="https://www.linkedin.com/in/alan-felipe-dev"><img src="https://img.shields.io/badge/LinkedIn-60DFEF?style=for-the-badge" alt="Conversar com Alan Felipe no LinkedIn" /></a>
-  <a href="mailto:alanfelipe1006@gmail.com"><img src="https://img.shields.io/badge/E--mail-74E3AE?style=for-the-badge&amp;logo=gmail&amp;logoColor=080D14" alt="Enviar e-mail para Alan Felipe" /></a>
+  <a href="https://www.linkedin.com/in/alan-felipe-dev"><img src="./linkedin.svg" alt="Conversar com Alan Felipe no LinkedIn" height="41" /></a>
+  <a href="mailto:alanfelipe1006@gmail.com"><img src="./gmail.svg" alt="Enviar e-mail para Alan Felipe" height="41" /></a>
 </p>
