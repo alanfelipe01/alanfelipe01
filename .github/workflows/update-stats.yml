@@ -50,6 +50,7 @@ jobs:
         run: |
           from pathlib import Path
           import re
+          import subprocess
           import xml.etree.ElementTree as ET
           from urllib.parse import urlparse
 
@@ -72,6 +73,13 @@ jobs:
           for name in ("stats.svg", "top-langs.svg"):
               if f'./assets/stats/{name}' not in text:
                   raise ValueError(f"Referência ausente no README: {name}")
+          for name in ("stats.svg", "top-langs.svg"):
+              path = f"assets/stats/{name}"
+              version = subprocess.check_output(
+                  ["git", "hash-object", path], text=True
+              ).strip()
+              pattern = r'src="\./' + re.escape(path) + r'(?:\?[^"]*)?"'
+              text = re.sub(pattern, f'src="./{path}?v={version}"', text)
           readme.write_text(text, encoding="utf-8")
 
       - name: Salvar cards na mesma branch
