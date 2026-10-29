@@ -51,8 +51,8 @@ Landing page feita sob encomenda para uma empresa júnior da UFC, para divulgar 
 ## <img src="./assets/icons/icon-stats.svg" alt="" height="24" /> GitHub
 
 <div align="center">
-  <img src="./assets/stats/stats.svg?v=d226d1155dfafeeb5352d73b65ad13c95c595cc3" alt="GitHub Stats" width="48%" />
-  <img src="./assets/stats/top-langs.svg?v=dece56dc068606ce59b2105242dc9efc20d5ebba" alt="Top Languages" width="48%" />
+  <img src="./assets/stats/stats.svg?v=38ba0d913c9c6ff477b00caf97b19ac60927979e" alt="GitHub Stats" width="48%" />
+  <img src="./assets/stats/top-langs.svg?v=9f6fb2daae8ea64d0737aa40b270eef139408968" alt="Top Languages" width="48%" />
 </div>
 
 <img src="./assets/dividers/divider.svg" alt="" width="100%" />
