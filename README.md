@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banners/banner-elden-ring.svg" alt="Pixel-Art" width="100%" />
+  <img src="./assets/banners/alan-boss-fight.gif" alt="Cavaleiro de armadura negra com escudo do Python diante de um dragão negro, com chamas animadas em pixel art" width="100%" />
 </div>
 
 # Olá! 👋 Eu sou Alan Felipe
@@ -17,6 +17,13 @@ Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvol
 <img src="./assets/dividers/divider.svg" alt="" width="100%" />
 
 ## <img src="./assets/icons/icon-projects.svg" alt="" height="24" /> Projetos em destaque
+
+### [EcoTour](https://github.com/alanfelipe01/EcoTour)
+Guia digital de descarte de resíduos para a UNINASSAU Aguanambi, desenvolvido em equipe a partir de pesquisa com a comunidade acadêmica e mapeamento dos pontos de descarte do campus. **1º lugar no Hackathon UNINASSAU, com 91/100 pontos.**
+
+`HTML` `CSS` `JavaScript`
+
+[Acessar o EcoTour](https://ecotour-nassau.vercel.app/)
 
 ### [python-estudos](https://github.com/alanfelipe01/python-estudos)
 Repositório onde registro minhas atividades e a evolução dos meus estudos de Python. Ainda pequeno, mas vai crescer junto com os estudos.
