@@ -20,7 +20,7 @@ Meu objetivo é construir uma base sólida em desenvolvimento back-end, desenvol
 
 ### [EcoTour](https://github.com/alanfelipe01/EcoTour)
 Guia digital de descarte de resíduos para a comunidade da UNINASSAU Aguanambi, desenvolvido em equipe e vencedor do Hackathon UNINASSAU 2026. [Acessar o site](https://ecotour-nassau.vercel.app/).
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Python`
 
 ### [Portfolio-Web — Alan.exe](https://github.com/alanfelipe01/Portfolio-Web)
 Meu portfólio pessoal, inspirado na interface do Windows 95 (janelas, ícones e taskbar), feito em HTML, CSS e JavaScript puros. Em evolução: é onde vou reunir meus projetos.
